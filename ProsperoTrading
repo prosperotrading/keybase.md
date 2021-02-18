@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am prosperotrading on github.
+  * I am prosperotrading (https://keybase.io/prosperotrading) on keybase.
+  * I have a public key ASBVq9NUslR4DTLJ5HxubN-KpuqaQKXRFfC2vZkkDb_TxAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012055abd354b254780d32c9e47c6e6cdf8aa6ea9a40a5d115f0b6bd99240dbfd3c40a",
+      "host": "keybase.io",
+      "kid": "012055abd354b254780d32c9e47c6e6cdf8aa6ea9a40a5d115f0b6bd99240dbfd3c40a",
+      "uid": "5a6e3f938aa536c6c9c035b045369719",
+      "username": "prosperotrading"
+    },
+    "merkle_root": {
+      "ctime": 1613674718,
+      "hash": "27d34fbc74cb92aea2eca2f377394d6676cf37a7e7c4aecd55fe77721eef8351fba7f7c5bf475c67d4abc6737c69e1e44f0b92b4328915821fa1607aeee010ad",
+      "hash_meta": "930d0571bbd7aeb693ab3b3613118df25ab1173b192414cde4727e448f7f796e",
+      "seqno": 19154140
+    },
+    "service": {
+      "entropy": "d6+rs/U0YZ+P/vYmkOMW1f7P",
+      "name": "github",
+      "username": "prosperotrading"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1613674754,
+  "expire_in": 504576000,
+  "prev": "ae94df45ee98dc09ee3e14d0131d784570b5015d81cf6be8a120d3a36763c8f7",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASBVq9NUslR4DTLJ5HxubN-KpuqaQKXRFfC2vZkkDb_TxAo](https://keybase.io/prosperotrading), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVavTVLJUeA0yyeR8bmzfiqbqmkCl0RXwtr2ZJA2/08QKp3BheWxvYWTESpcCBcQgrpTfRe6Y3AnuPhTQEx14RXC1AV2Bz2vooSDTo2djyPfEIBtiF9kS5TNnuNLbgAw+hF5R0JVJzXcyFcxY0ypNvuOLAgHCo3NpZ8RALHO9LEbD+7kDMRpA7iAS5mZy1OpB4sst9IJuZcuC6OmSoVKVKyQ2iI41Xk06TJGh7YyM4miXfUZwwfJxltW3AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBzpGQbxfnalzn3GGxkkMp9wrQtWXGSW7RCSWCpJpANIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/prosperotrading
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id prosperotrading
+```
